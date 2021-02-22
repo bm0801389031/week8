@@ -12,3 +12,12 @@ Given an array of integers as strings and numbers, return the sum of the array v
 
 Return your answer as a number.
 FUNDAMENTALSSTRINGSNUMBERSARRAYS
+
+## convert a boolean to a string
+
+Description:
+
+Implement a function which convert the given boolean value into its string representation.
+FUNDAMENTALSBOOLEANSSTRINGSFUNCTIONSCONTROL FLOWBASIC LANGUAGE FEATURES
+
+
