@@ -135,3 +135,29 @@ Example
 
 ['hello', 'world', 'this', 'is', 'great']  =>  'hello world this is great'
 FUNDAMENTALSLOOPSCONTROL FLOWBASIC LANGUAGE FEATURESCONDITIONAL STATEMENTSSTRINGSARRAYS
+
+## transportation on vacation twelveth function
+
+Description:
+
+After a hard quarter in the office you decide to get some rest on a vacation. So you will book a flight for you and your girlfriend and try to leave all the mess behind you.
+
+You will need a rental car in order for you to get around in your vacation. The manager of the car rental makes you some good offers.
+
+Every day you rent the car costs $40. If you rent the car for 7 or more days, you get $50 off your total. Alternatively, if you rent the car for 3 or more days, you get $20 off your total.
+
+Write a code that gives out the total amount for different days(d).
+FUNDAMENTALS
+
+
+## removing elements thirteenth function
+
+Description:
+
+Take an array and remove every second element from the array. Always keep the first element and start removing with the next element.
+
+Example:
+
+myArr = ['Keep', 'Remove', 'Keep', 'Remove', 'Keep', ...];
+None of the arrays will be empty, so you don't have to worry about that!
+FUNDAMENTALSLISTSDATA STRUCTURESARRAYS
