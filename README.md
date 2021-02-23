@@ -82,3 +82,9 @@ setAlarm(false, true) -> false
 setAlarm(false, false) -> false
 setAlarm(true, false) -> true
 FUNDAMENTALSBOOLEANS
+
+
+## 
+
+Write a function which converts the input string to uppercase.
+FUNDAMENTALS
