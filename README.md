@@ -66,3 +66,19 @@ Write a function feast that takes the animal's name and dish as arguments and re
 
 Assume that beast and dish are always lowercase strings, and that each has at least two letters. beast and dish may contain hyphens and spaces, but these will not appear at the beginning or end of the string. They will not contain numerals.
 FUNDAMENTALSSTRINGS
+
+
+
+## set alarm eighth function
+
+Description:
+
+Write a function named setAlarm which receives two parameters. The first parameter, employed, is true whenever you are employed and the second parameter, vacation is true whenever you are on vacation.
+
+The function should return true if you are employed and not on vacation (because these are the circumstances under which you need to set an alarm). It should return false otherwise. Examples:
+
+setAlarm(true, true) -> false
+setAlarm(false, true) -> false
+setAlarm(false, false) -> false
+setAlarm(true, false) -> true
+FUNDAMENTALSBOOLEANS
