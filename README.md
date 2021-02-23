@@ -161,3 +161,13 @@ Example:
 myArr = ['Keep', 'Remove', 'Keep', 'Remove', 'Keep', ...];
 None of the arrays will be empty, so you don't have to worry about that!
 FUNDAMENTALSLISTSDATA STRUCTURESARRAYS
+
+
+## convert string to array
+
+Write a function to split a string and convert it into an array of words. For example:
+
+"Robin Singh" ==> ["Robin", "Singh"]
+
+"I love arrays they are my favorite" ==> ["I", "love", "arrays", "they", "are", "my", "favorite"]
+FUNDAMENTALSARRAYSSTRINGS
