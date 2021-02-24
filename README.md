@@ -231,3 +231,13 @@ The function is not returning the correct values. Can you figure out why?
 
 getPlanetName(3); // should return 'Earth'
 BUGSCONTROL FLOWBASIC LANGUAGE FEATURESFUNDAMENTALS
+
+
+
+## function twenty
+## remove exclamation marks
+
+Description:
+
+Write function RemoveExclamationMarks which removes all exclamation marks from a given string.
+FUNDAMENTALS
