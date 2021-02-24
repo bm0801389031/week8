@@ -186,3 +186,15 @@ Numerical Score	Letter Grade
 0 <= score < 60	'F'
 Tested values are all between 0 and 100. Theres is no need to check for negative values or values greater than 100.
 FUNDAMENTALS
+
+
+## Find numbers which are divisible by given number
+
+Description:
+
+Complete the function which takes two arguments and returns all numbers which are divisible by the given divisor. First argument is an array of numbers and the second is the divisor.
+
+Example
+
+divisibleBy([1, 2, 3, 4, 5, 6], 2) == [2, 4, 6]
+ALGORITHMSARRAYS
