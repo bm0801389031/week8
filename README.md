@@ -136,7 +136,7 @@ Example
 ['hello', 'world', 'this', 'is', 'great']  =>  'hello world this is great'
 FUNDAMENTALSLOOPSCONTROL FLOWBASIC LANGUAGE FEATURESCONDITIONAL STATEMENTSSTRINGSARRAYS
 
-## transportation on vacation twelveth function
+## transportation on vacation therteen function
 
 Description:
 
@@ -150,7 +150,7 @@ Write a code that gives out the total amount for different days(d).
 FUNDAMENTALS
 
 
-## removing elements thirteenth function
+## removing elements fourteenth function
 
 Description:
 
@@ -172,7 +172,7 @@ Write a function to split a string and convert it into an array of words. For ex
 "I love arrays they are my favorite" ==> ["I", "love", "arrays", "they", "are", "my", "favorite"]
 FUNDAMENTALSARRAYSSTRINGS
 
-## grasshopper grad book fifteen function
+## grasshopper grad book sixteenth function
 
 Grade book
 
@@ -202,7 +202,7 @@ ALGORITHMSARRAYS
 
 
 ## I love you, a little , a lot, passionately ... not at all 
-## function seventeen
+## function eighteenth
 
 Description:
 
@@ -218,3 +218,16 @@ When the last petal was torn there were cries of excitement, dreams, surging tho
 
 Your goal in this kata is to determine which phrase the girls would say for a flower of a given number of petals, where nb_petals > 0.
 FUNDAMENTALSARRAYS
+
+
+
+## nineteenth function
+## get planet name by id
+
+
+Description:
+
+The function is not returning the correct values. Can you figure out why?
+
+getPlanetName(3); // should return 'Earth'
+BUGSCONTROL FLOWBASIC LANGUAGE FEATURESFUNDAMENTALS
