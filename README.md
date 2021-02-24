@@ -319,3 +319,26 @@ Add the isUpperCase method to String to see whether the string is ALL CAPS. For 
 "ACSKLDFJSGSKLDFJSKLDFJ".isUpperCase() == true
 In this Kata, a string is said to be in ALL CAPS whenever it does not contain any lowercase letter so any string containing no letters at all is trivially considered to be in ALL CAPS.
 FUNDAMENTALSOBJECT-ORIENTED PROGRAMMING
+
+
+## function twenty six
+## to square root or not to squar root
+
+Description:
+
+#To square(root) or not to square(root)
+
+Write a method, that will get an integer array as parameter and will process every number from this array.
+Return a new array with processing every number of the input-array like this:
+
+If the number has an integer square root, take this, otherwise square the number.
+
+[4,3,9,7,2,1] -> [2,9,3,49,4,1]
+The input array will always contain only positive numbers and will never be empty or null.
+
+The input array should not be modified!
+
+Have fun coding it and please don't forget to vote and rank this kata! :-)
+
+I have also created other katas. Take a look if you enjoyed this kata!
+ALGORITHMSBASIC LANGUAGE FEATURESFUNDAMENTALSMATHEMATICSNUMBERSARRAYS
