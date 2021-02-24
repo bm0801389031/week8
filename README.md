@@ -241,3 +241,12 @@ Description:
 
 Write function RemoveExclamationMarks which removes all exclamation marks from a given string.
 FUNDAMENTALS
+
+
+## function twenty one
+## you cant code under pressure
+
+Description:
+
+Code as fast as you can! You need to double the integer and return it.
+FUNDAMENTALSNUMBERSINTEGERS
